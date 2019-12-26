@@ -88,5 +88,3 @@ Bonus
 Use the Geolocation API to add the user's current location to the initial landing page.
 
 Add the application to your portfolio.
-
-© 2019 GitHub, Inc.
